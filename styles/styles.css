@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+
+body{
+    /* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900 */
+
+
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+
+nav{
+    background-image: url('../image/Banner\ Image.png');
+    background-repeat: no-repeat;
+    height: 600px;
+    background-position: center;
+    margin-top: 55px;
+    margin-bottom: 150px;
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+
+
+}
+
+.nav-div{
+    color: #55ef08 ;
+    text-align: center;
+    width: 500px;
+    position: relative;
+    padding: 227px 0 0 484px;
+
+}
+
+.new-year{
+    font-size: 32px;
+}
+
+.nav-title{
+    font-size: 72px;
+}
